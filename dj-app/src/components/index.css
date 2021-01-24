@@ -1,0 +1,69 @@
+.img-center {
+    display: block;
+    margin: 0 auto;
+}
+
+.arrow-left{
+   margin-right: 600px;
+}
+
+
+.arrow-right{
+    margin-left: 600px;
+}
+
+.dj-text {
+    font-size: 22px;
+    font-weight: 100;
+    font-family:fantasy;
+    color:black
+}
+
+.proj-title{
+    font-family:cursive;
+    color: rgb(197, 101, 17);
+    font-size: 100px;
+}
+
+.sub-title {
+    font-size: 35px;
+    color:rgb(70, 43, 8);
+    font-family: 'Times New Roman', Times, serif;
+    font-family: cursive;
+}
+
+.card-price{
+    width: 20rem;
+    height: 25rem;
+    display: inline-block;
+    margin: 130px 70px;
+    border: 4px solid rgb(139, 128, 128);
+}
+
+.card-title {
+    font-family: cursive;
+    color:burlywood;
+    font-size: 22px;
+}
+
+.hurry-img{
+    height: 150pt;
+    width: 340pt;
+    margin: 10pt 0pt 600pt 0pt;
+}
+
+.card-cmp{
+    background-color:papayawhip
+}
+
+.price{
+    font-size: 40px;
+    font-family: cursive;
+}
+
+.invite{
+    text-align: center;
+    font-size: 60px;
+    font-family: cursive;
+    color: rgb(197, 101, 17);
+}
